@@ -2046,6 +2046,21 @@
   <LocaleResource Name="Admin.Catalog.Categories.BackToList">
     <Value>back to category list</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Blocks.CategoryInfo">
+    <Value>Category info</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Blocks.Display">
+    <Value>Display</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Blocks.Mappings">
+    <Value>Mappings</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Blocks.SEO">
+    <Value>SEO</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Blocks.Products">
+    <Value>Products</Value>
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Breadcrumb">
     <Value>Breadcrumb</Value>
   </LocaleResource>
